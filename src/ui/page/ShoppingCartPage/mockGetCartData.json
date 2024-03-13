@@ -1,0 +1,42 @@
+[
+  {
+    "pid": 1,
+    "name": "Automatic Watch TB8207A",
+    "image_url": "https://tsarbomba.com/cdn/shop/files/1_ce416bf5-2a3d-46cc-8d67-380aa6701e58.jpg?v=1686881020",
+    "price": 2799.00,
+    "cart_quantity": 1,
+    "stock": 10
+  },
+  {
+    "pid": 3,
+    "name": "Carbon Fiber Automatic Watch TB8208CF Bull Red",
+    "image_url": "https://tsarbomba.com/cdn/shop/files/1_1551acfc-5af5-4159-96b9-e159434442a8.png?v=1686882366",
+    "price": 5999.00,
+    "cart_quantity": 1,
+    "stock": 999
+  },
+  {
+    "pid": 5,
+    "name": "Carbon Fiber Automatic Watch TB8208CF Elite White Version",
+    "image_url": "https://tsarbomba.com/cdn/shop/files/9.png?v=1686901973",
+    "price": 5999.00,
+    "cart_quantity": 1,
+    "stock": 1000
+  },
+  {
+    "pid": 11,
+    "name": "Ceramic Kinetic Energy Display Automatic Watch TB8212C",
+    "image_url": "https://tsarbomba.com/cdn/shop/files/1_4e61e231-f8b0-4605-bec4-0540decd4083.png?v=1686883458",
+    "price": 9999.00,
+    "cart_quantity": 4,
+    "stock": 1000
+  },
+  {
+    "pid": 24,
+    "name": "Quartz Calendar Watch TB8204Q Gold blue",
+    "image_url": "https://tsarbomba.com/cdn/shop/files/18_3cf445c9-8145-4234-b68b-7e8619d1864f.jpg?v=1686966907",
+    "price": 1999.00,
+    "cart_quantity": 5,
+    "stock": 1000
+  }
+]
